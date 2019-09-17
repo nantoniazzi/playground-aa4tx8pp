@@ -5,7 +5,7 @@ This Python template lets you get started quickly with a simple one-page playgro
 Test
 
 ```python runnable
-print('Hello World!')
+print('Hello World 3!')
 ```
 
 # Advanced usage
